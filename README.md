@@ -15,7 +15,6 @@
         <p>I am learning web development as of August 4th 2022</p></td>
     </tr>
   </table>
-<hr size"3" noshade />
   <br>
   <h3>What I've Completed <em>so far</em></h3>
     <ul>
